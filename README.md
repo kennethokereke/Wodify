@@ -6,7 +6,7 @@ is a platform on the leading edge of gym management software empowering gyms, me
 | [Wodify](https://dribbble.com/shots/7143057-Redesign-Wodify-Application/attachments/147125?mode=media) | [Medium](https://medium.com/@kennethokerekeUIUX/wodify-ios-app-redesign-ux-case-study-7bb50ad2d209)   | 11 | 
 
 
-![alt text]()
+![alt text](https://github.com/kennethokereke/Wodify/blob/master/Wodify/assets/Wodify.gif)
 
 ## Requirements
 
